@@ -13,6 +13,11 @@ Il divario salariale di genere è definito come la differenza tra le retribuzion
 - Python 3.x
 - Jupyter Notebook
 
+## Sorgenti Dati
+
+[Eurostat](https://ec.europa.eu/eurostat/data/database)
+[OECD Data](https://data.oecd.org/earnwage/gender-wage-gap.htm)
+
 ## Istruzioni
 
 1. Clona il repository sul tuo computer.
