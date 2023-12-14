@@ -16,7 +16,7 @@ Il divario salariale di genere è definito come la differenza tra le retribuzion
 ## Istruzioni
 
 1. Clona il repository sul tuo computer.
-2. Apri il file `minSalaryEurope.ipynb.ipynb` o `genderEarningsGapWorld.ipynb` utilizzando Jupyter Notebook.
+2. Apri il file `minSalaryEurope.ipynb` o `genderEarningsGapWorld.ipynb` utilizzando Jupyter Notebook.
 3. Esegui le celle del notebook per generare i grafici
 4. Esplora il grafico e analizza i dati.
 
