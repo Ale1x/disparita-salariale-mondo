@@ -29,6 +29,8 @@ Il divario salariale di genere è definito come la differenza tra le retribuzion
 ![Immagine](https://i.imgur.com/i588HNN.png)
 ![Immagine](https://i.imgur.com/mEYY1Al.png)
 
+! Il divario salariale di genere è definito come la differenza tra le retribuzioni mediane di uomini e donne rispetto alle retribuzioni mediane degli uomini. I dati si riferiscono ai lavoratori dipendenti a tempo pieno da un lato e ai lavoratori autonomi dall'altro. !
+
 ## Risorse
 
 - [Documentazione di Jupyter Notebook](https://jupyter.org/documentation)
