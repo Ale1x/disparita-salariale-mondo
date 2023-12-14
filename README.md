@@ -21,8 +21,8 @@ Il divario salariale di genere è definito come la differenza tra le retribuzion
 4. Esplora il grafico e analizza i dati.
 
 ## Screenshots
-Salario Minimo: ![Immagine](https://i.imgur.com/i588HNN.png)
-Divario salariale: ![Immagine](https://i.imgur.com/mEYY1Al.png)
+![Immagine](https://i.imgur.com/i588HNN.png)
+![Immagine](https://i.imgur.com/mEYY1Al.png)
 
 ## Risorse
 
